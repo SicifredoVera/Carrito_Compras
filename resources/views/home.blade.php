@@ -4,7 +4,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-3">
-            <button id="btnInicio" class="btn btn-primary" onclick="ver_productos();">Inicio</button>
+           <!--  <button id="btnInicio" class="btn btn-primary" onclick="ver_productos();">Inicio</button> -->
             <br>
            
         </div>

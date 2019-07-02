@@ -65,9 +65,14 @@
                 <p class="card-text">Computadora de Escritorio, Perfecta para el Hogar, Procesador Dell.</p>
                 <p><strong>$500</strong></p>
                 <div class="d-flex justify-content-between align-items-center">
+
+                    
                   <div class="btn-group">
                    <a href="#" class="btn btn-success producto" precio="500" titulo="Computadora de Escritorio Dell"  role="button">Añadir al Carrito</a>
+                  
                    </div>
+                  
+
                   <small class="text-muted"></small>
                 </div>
               </div>

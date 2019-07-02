@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Carrito Compras</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -67,7 +67,9 @@
     <br>
     <br>
     <br>
-  
+  <br>
+    <br>
+
        
     </div>
   </div>
@@ -77,7 +79,25 @@
 
 <center>
         <p class="lead my-4" style="color:#000000">Somos una empresa dedicada a la venta de equipos y accesorios de cómputo. Actualmente somos una de las empresas más consultadas a la hora de adquirir un equipo de cómputo para la oficina y/o el hogar. Nos preocupamos por cubrir perfectamente tus necesidades por lo que ofrecemos excelentes productos de mejor calidad en el mercado.</p>
+        <br> 
 </center>
+
+<h1>Misión</h1>
+<center>
+<p class="lead my-4" style="color:#000000">Cubrir las necesidades en equipos de cómputo para nuestros clientes generando confianza, otorgándole un valor agregado al servicio teniendo la calidad y la atención personalizada que usted se merece..</p>
+</center>
+
+
+<h1>Visión</h1>
+<center>
+<p class="lead my-4" style="color:#000000">Ser la primera opción para nuestros clientes a la hora de buscar un servicio de calidad y adquirir equipos de cómputo que cubran sus necesidades.</p>
+</center>
+
+
+<center>
+<h1>Productos Que Ofrecemos</h1>
+</center>
+        <br>
    <div class="container">
 
   <div class="row mb-3">
@@ -108,13 +128,14 @@ RJ45 (1)*No cuenta con Lectora para DVD / CD*Imagen Referencial</p>
     <div class="col-md-6">
       <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
         <div class="col p-4 d-flex flex-column position-static">
-          <strong class="d-inline-block mb-2 text-success">HP 15 Ryzen R3 15.6-inch Full HD</strong>
+          <strong class="d-inline-block mb-2 text-success">COMPUTADOR GAMER / DISEÑO PRO I7 7MA GENERACIÓN 8GB RAM, 1TB HDD, GTX 1050TI
+</strong>
           <h3 class="mb-0">Caracteristicas</h3>
           <div class="mb-1 text-muted"></div>
-          <p class="mb-auto">Procesador AMD Ryzen 3 2200U,Windows 10 Home, pantalla Full HD de 15,6 pulgadas (1920x1080) ,Memoria y almacenamiento: 4 GB de RAM DDR4, ampliable a 16 GB, con AMD Radeon Vega 3 Graphics | Almacenamiento: HDD de 1TB</p>
+          <p class="mb-auto">Mainboard Asus, Procesador Intel Core I7-7700 - 3.6ghz Sk 1151 7ma Generación, Memoria Kingston / Adata 8gb con disipador, Disco duro 1TB Sata, Tarjeta de Video GTX 1050Ti 4GB, HDMI / USB, Mouse, Teclado Gamer.</p>
         </div>
         <div class="col-auto d-none d-lg-block">
-          <img class="bd-placeholder-img" width="200" height="150" src="img/isi3.jpg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect></img>
+          <img class="bd-placeholder-img" width="200" height="150" src="img/isi17.jpg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect></img>
         </div>
       </div>
     </div>
@@ -125,14 +146,14 @@ RJ45 (1)*No cuenta con Lectora para DVD / CD*Imagen Referencial</p>
     <div class="col-md-6">
       <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
         <div class="col p-4 d-flex flex-column position-static">
-          <strong class="d-inline-block mb-2 text-primary">Laptop YG 520-14IKB I3 4G 500 10H Lenovo
+          <strong class="d-inline-block mb-2 text-primary">Silla Gamer Dragster GT600 Fury Red
 </strong>
-          <h3 class="mb-0">Caracteristicas</h3>
+          
           <div class="mb-1 text-muted"></div>
-          <p class="card-text mb-auto"> Video magnífico. Audio envolvente mejorado. Funciones de chat por video optimizadas. Todo eso tiene la Yoga 520, una laptop 2 en 1 de 14” con procesadores potentes y una batería de larga duración. Potencia tu experiencia incluso más con opciones de avanzada, como el lápiz óptico Lenovo Active Pen.</p>
+          <p class="card-text mb-auto">Conoce la nueva generación de sillas Dragster GT600 que cuentan con acabado en ecocuero, bordados de extrema calidad, reposabrazos 4D y mucho más. </p>
         </div>
         <div class="col-auto d-none d-lg-block">
-          <img class="bd-placeholder-img" width="200" height="250" src="img/isi4.webp" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect></img>
+          <img class="bd-placeholder-img" width="200" height="250" src="img/isi16.png" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect></img>
         </div>
       </div>
     </div>
@@ -142,24 +163,14 @@ RJ45 (1)*No cuenta con Lectora para DVD / CD*Imagen Referencial</p>
     <div class="col-md-6">
       <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
         <div class="col p-4 d-flex flex-column position-static">
-          <strong class="d-inline-block mb-2 text-success">Laptop Lenovo 320 15.6 Core I3 1tb 4gb Ram Morada</strong>
+          <strong class="d-inline-block mb-2 text-success">CABLE HDMI V1.4. 2M</strong>
           <h3 class="mb-0">Caracteristicas</h3>
           <div class="mb-1 text-muted"></div>
-          <p class="mb-auto">Modelo: 
-Marca: Lenovo
-Serie: IdeaPad
-Modelo: 320-15ISK
-Color: Negro
-Número de parte: 80XH0003LM
-Tipo: Notebook
-Procesador: 
-Marca: Intel
-Línea: Core i3
-Modelo: 6006U
-Generación: 6ta Generación</p>
+          <p class="mb-auto"> Cable HDMI Premiun, Soporta 3D, 1.4v, Resolución 1080p, Con Malla protectora la cual permite una mejor calidad de transmisión.
+Conectores chapeados en Oro 24k, Cabezal de Meta</p>
         </div>
         <div class="col-auto d-none d-lg-block">
-          <img class="bd-placeholder-img" width="200" height="150" src="img/isi5.jpg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect></img>
+          <img class="bd-placeholder-img" width="200" height="150" src="img/isi18.jpg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect></img>
         </div>
       </div>
     </div>
@@ -171,5 +182,12 @@ Generación: 6ta Generación</p>
 
   </div>
 </div>
+
+
+
+<h2><b>Contactanos:</b></h2>
+<p class="lead my-4" style="color:#000000"><b>Telefono:</b> 2398203 ext 192.</p>
+<p class="lead my-4" style="color:#000000"><b>Celular:</b> 0994150181</p>
+<p class="lead my-4" style="color:#000000"><b>Email:</b> isidro.vera@espam.edu.ec</p>
 </body>
 </html>
